@@ -13,7 +13,7 @@ The steps in this document assume that you have access to an OpenShift deploymen
 
 ### Installation
 
-1. Fork a copy of [golang-ex](https://github.com/openshift/golang-ex)
+1. Fork a copy of [test-ex](https://github.com/openshift/golang-ex)
 2. Clone your repository to your development machine and cd to the repository directory
 3. Add a Golang application from the beego template. **Note:** You will need to replace part of the `SOURCE_REPOSITORY_URL` where it says `yourusername` with your GitHub username before running:
 
